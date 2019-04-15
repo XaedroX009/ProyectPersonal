@@ -29,3 +29,4 @@
 \\Mac\Home\Desktop\ProyectoPersonal\CompradoPag\CompradoPag\obj\Debug\netcoreapp2.1\CompradoPag.dll
 \\Mac\Home\Desktop\ProyectoPersonal\CompradoPag\CompradoPag\obj\Debug\netcoreapp2.1\CompradoPag.pdb
 \\Mac\Home\Desktop\ProyectoPersonal\CompradoPag\CompradoPag\obj\Debug\netcoreapp2.1\CompradoPag.csproj.CopyComplete
+\\Mac\Home\Desktop\ProyectoPersonal\CompradoPag\CompradoPag\obj\Debug\netcoreapp2.1\CompradoPag.csprojAssemblyReference.cache

@@ -17,7 +17,7 @@ namespace CompradoPag.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Descripcion de la pagina TEST.";
 
             return View();
         }
